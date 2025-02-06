@@ -136,23 +136,3 @@ After deletion, checks that players associated with the deleted team no longer e
 show_players_for_team():
 
 Displays all players for a specific team by querying the Players table using the team’s name.
-
-c. The grade you expect to get and why based on the grading criteria
-
-I believe I deserve a 100 based on the grading criteria because in this project, I designed and populated a database of 8 tables, and a total of atleast 400 rows, and all the tables are related in some way.
-Also, I did level 1 and 2 queries having 4 read-only queries and 4 modification queries.
-Finally, I did python level 1 which included two read functions, and two modification functions, and these functions but took user input
-
-Challenges Faced:
-
-Connecting the Database to Python:
-One of the challenges I faced was establishing a connection between MySQL and Python using mysql-connector-python.
-
-Transferring the ER Diagram to MySQL:
-Creating and implementing the ER diagram was challenging, as this was my first time translating it into a fully functional database schema.
-
-Populating the Database:
-Populating the database was difficult due to ChatGPT not being fully updated with the most current NFL data. This forced me to use some fictional data from ChatGPT.
-
-Defining Relationships Between Tables:
-Establishing the correct relationships between tables required extra thought, as I had to ensure the data made sense and followed proper database normalization principles.
